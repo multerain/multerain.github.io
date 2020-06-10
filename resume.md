@@ -4,13 +4,17 @@ title: Resume
 permalink: /resume/
 ---
 
+## About
+---
+I am software engineer passionate about DevOps CALMR principles, software quality, automation, and enabling other developers to deliver the right thing at the right time.
+
 ## Skills
 ---
  - **Languages**: Python, Bash, Go, C++
  - **Version Control**: Git, Mercurial
  - **Configuration Management**: Ansible
  - **Virtualization**: Docker, VirtualBox, KVM, QEMU
- - **Other Automation Tools**: Jenkins, Gitlab, Vagrant
+ - **Other Automation Tools**: Jenkins
  - **Development Methodologies**: Agile, DevOps
 
 ## Experience
@@ -19,9 +23,11 @@ permalink: /resume/
 **Sr. Software Engineer** ~ *May 2018 - Present*
   - Led an agile team responsible for the Jenkins CICD pipeline of a custom Linux (Gentoo) based OS distribution, including underlying build and test infrastructure via configuration-as-code with Ansible.
   - Designed build processes for new container-based services to help migrate legacy storage services to a cloud-first architecture.
-  - Spearheaded effort to collect and display automation metrics using Grafana to improve change failure rate, lead time, and mean time to recovery of all internal CICD pipelines, and received “Teammates I Can Count On to Win” award in recognition.  Also, setup monitoring and alerting of automation infrastructure using Prometheus and Grafana.
+  - Spearheaded effort to collect and display automation metrics using Grafana to improve change failure rate, lead time, and mean time to recovery of all internal CICD pipelines.
+  - Received “Teammates I Can Count On to Win” award in recognition of metrics improvements.
   - Improved change failure rate by 50%, lead time (time it takes for a pipeline to complete successfully) by 25%, and mean time to recovery (time from a failing execution until the next passing run) by 125% of the Jenkins pipeline over a period of six months.
-  - Fulfilled SAFe Product Owner duties, including defining and maintaining backlog of features, stories and bugs. Works with architects, product managers and other business owners to define features for process and automation improvements.  Drove DevOps and Agile best practices across teams and the organization to improve developer workflows and pipeline efficiencies.
+  - Setup monitoring and alerting of automation infrastructure using Prometheus and Grafana.
+  - Fulfilled SAFe Product Owner duties, including defining and maintaining backlog of features, stories and bugs. Worked with architects, product managers and other business owners to define features for process and automation improvements.  Drove DevOps and Agile best practices across teams and the organization to improve developer workflows and pipeline efficiencies.
 
 **Software Engineer, SDET** ~ *Mar 2017 - May 2018*
   - Wrote automated integration and system level tests for product feature and hardware component level qualification using primarily Python and bash. Converted documented manual test cases into automated test cases using an internal Python test framework.
